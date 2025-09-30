@@ -219,8 +219,9 @@ result = classify_subject(
 
 ## License
 
-[Your license here]
+[Freee]
 
 ## Contact
 
-[Your contact info]
+
+[HowToCuddle]
