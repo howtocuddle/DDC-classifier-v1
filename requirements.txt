@@ -1,0 +1,20 @@
+# Core dependencies for detective_systemv3
+
+# Fuzzy string matching
+rapidfuzz>=3.0.0
+
+# Optional: for semantic search and embeddings
+sentence-transformers>=2.2.0  # Optional, for SBERT-based synonym expansion
+
+# HTTP client for OpenRouter manager
+requests>=2.31.0
+
+# Standard library packages used (no installation needed):
+# - json
+# - hashlib
+# - pathlib
+# - dataclasses
+# - typing
+# - enum
+# - re
+# - time
